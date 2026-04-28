@@ -20,7 +20,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="center">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHh3M3pnaWRuZXBnNzB3ejExZGx2ZzU1emw0ZnJ3eGJneThwOWU3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnkNC/giphy.gif" width="90%" alt="Coding GIF">
+      <img src="https://github.com/user-attachments/assets/7930df23-57f6-4c7a-b97e-7d40b790b0c0" width="100%" alt="Coding GIF">
     </td>
   </tr>
 </table>
